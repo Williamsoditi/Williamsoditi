@@ -35,14 +35,12 @@ I am currently a student in Moringa School studying Software Development 💻. A
 </div>
 
 <br>
-<br>
 
 ### Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamsOditi)
 
 <br>
-
 
 ### 🤝🏻 Connect with me:
 <br>
