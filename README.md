@@ -20,6 +20,8 @@ I am currently a student in Moringa School studying Software Development 💻. A
     <img align="center" alt="Williamsoditi-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Williamsoditi-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Williamsoditi-Angular" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Williamsoditi-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Williamsoditi-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- <img align="center" alt="Williamsoditi-Bootstrap" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrapcss/bootstrapcss-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
 
