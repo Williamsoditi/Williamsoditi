@@ -2,7 +2,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am currently a student in Moringa School studying Software Development 💻. A great problem solver and I can't wait to implement my problem solving skills with code to facilitate a brighter future 💡
+I am currently a student in Moringa School studying Software Development 💻. A great problem solver and I can't wait to implement my problem solving skills to facilitate a brighter future 💡
 
 <br>
 <div align="center">
