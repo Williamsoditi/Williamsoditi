@@ -44,7 +44,7 @@ I am currently a student in Moringa School studying Software Development 💻. A
 
 <br>
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="80px">Connect with me:
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="30px">Connect with me:
 <br>
 <div> 
  <a href="mailto:williamsoditi99@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
