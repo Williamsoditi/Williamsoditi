@@ -25,6 +25,7 @@ I am currently a student in Moringa School studying Software Development 💻. A
    <img align="center" alt="Williamsoditi-Flask" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Williamsoditi-Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img align="center" alt="Williamsoditi-Postgresql" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Williamsoditi-Django" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
@@ -44,7 +45,7 @@ I am currently a student in Moringa School studying Software Development 💻. A
 
 <br>
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="15px">Connect with me:
+### 🤝 Connect with me:
 <br>
 <div> 
  <a href="mailto:williamsoditi99@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
