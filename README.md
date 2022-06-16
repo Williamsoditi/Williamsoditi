@@ -1,8 +1,8 @@
-<!-- # Hi there.Welcome! Williams Oditi here. -->
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
 
+<!-- <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>   -->
+ # Hi there. Welcome! Williams Oditi here.
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
 I am currently a student in Moringa School studying Software Development 💻. A great problem solver and I can't wait to implement my problem solving skills to facilitate a brighter future 💡
