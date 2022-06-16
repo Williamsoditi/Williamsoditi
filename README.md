@@ -1,4 +1,7 @@
-# Hi there.Welcome! Williams Oditi here.
+<!-- # Hi there.Welcome! Williams Oditi here. -->
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
