@@ -37,7 +37,8 @@ I am currently a student in Moringa School studying Software Development 💻. A
 <br>
 <div style="display: inline_block">
     <img align="center" alt="Williamsoditi-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img align="center" alt="Williamsoditi-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+     <img align="center" alt="Williamsoditi-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Williamsoditi-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
 
 <br>
