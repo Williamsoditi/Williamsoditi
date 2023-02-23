@@ -38,7 +38,7 @@ I am a recent software development 💻 graduate from Moringa School. A great pr
     <img src="https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
     <img src="https://img.shields.io/badge/canva-3868e8?style=for-the-badge&logo=canva&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
     <img src="https://img.shields.io/badge/git-f64d27?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-    <img src="https://img.shields.io/badge/heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+    
 
 </div>
  
