@@ -1,7 +1,7 @@
 # Hi there. Welcome! Williams Oditi here.
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a recent software development 💻 graduate from Moringa School. A great problem solver who enjoys solving everyday problems with an innovative approach.💡
+ A great problem solver who enjoys solving everyday problems with an innovative approach.💡
 
 <br>
 <div align="center">
