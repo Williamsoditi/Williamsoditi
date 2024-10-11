@@ -2,6 +2,7 @@
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
  A great problem solver who enjoys solving everyday problems with an innovative approach.💡
+Currently, learning UI/UX, Php and WordPress
 
 <br>
 <div align="center">
