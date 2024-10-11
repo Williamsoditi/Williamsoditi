@@ -1,8 +1,8 @@
-# Hi there. Welcome! Williams Oditi here.
+# Hi there. Welcome to Williams Oditi's creative space.
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
- A great problem solver who enjoys solving everyday problems with an innovative approach.💡
-Currently, learning UI/UX, Php and WordPress
+ A diligent and innovative developer who enjoys tackling and solving world problems with code💡.
+Currently, I am learning UI/UX, PHP, and WordPress
 
 <br>
 <div align="center">
