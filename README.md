@@ -1,4 +1,4 @@
-# Hi there. Welcome to Williams Oditi's creative space.
+# Hi there. Welcome to my creative space.
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
  A diligent and innovative developer who enjoys tackling and solving world problems with code💡.
@@ -49,11 +49,6 @@ Currently, I am learning UI/UX, PHP, and WordPress
 <br>
 <br>
 
-## Profile visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WilliamsOditi)
-
-<br>
 
 ## 🤝 Connect with me:
 <br>
