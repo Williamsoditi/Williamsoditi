@@ -54,5 +54,5 @@ Currently, I am learning UI/UX, PHP, and WordPress
 <br>
 <div> 
  <a href="mailto:williamsoditi99@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://www.linkedin.com/in/williams-oditi/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/williamsoditi/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://twitter.com/OditiWilliams" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@OditiWilliams-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
