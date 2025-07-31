@@ -1,0 +1,15 @@
+name: Force Stats Cache Refresh
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Runs every 4 hours, matching the cache time
+  workflow_dispatch:
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger a cache bust for github-readme-stats
+        run: |
+          curl "https://github-readme-stats.vercel.app/api?username=Williamsoditi&cache_bust=$(date +%s)"
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsoditi&layout=compact&langs_count=7&cache_bust=$(date +%s)"
